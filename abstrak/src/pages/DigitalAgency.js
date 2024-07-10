@@ -20,7 +20,7 @@ const DigitalAgency = () => {
 
     return (
         <>
-        <SEO title="Digital Agency"/>
+        <SEO title="EduLearn"/>
         <ColorSwitcher />
         <main className="main-wrapper">
             <HeaderOne />
